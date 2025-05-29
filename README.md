@@ -63,7 +63,6 @@ This repo contains a list of languages that currently compile to or have their V
   - [Ring](#ring)
   - [Ruby](#ruby)</br>
   - [Scheme](#scheme)
-  - [Scopes](#scopes)
   - [Swift](#swift)
   - [Tcl](#tcl)
   - [V](#v)
@@ -628,12 +627,6 @@ This repo contains a list of languages that currently compile to or have their V
 * [Schism](https://github.com/schism-lang/schism) - Schism is an experimental self-hosting compiler from a subset of R6RS Scheme to WebAssembly. Development so far has focused on features necessary for self-hosting. The compiler itself is written in, and compiles, a very small subset of Scheme.
 * [scheme.wasm](https://github.com/pollrobots/scheme) - An R7RS Scheme implemented in WebAssembly. You can try it out [here](https://pollrobots.com/scheme/).
 * [Guile Hoot](https://gitlab.com/spritely/guile-hoot) - a Scheme to WebAssembly compiler backend for GNU Guile and a general purpose WASM toolchain.
-
---------------------
-
-### <a name="scopes"></a>Scopes <sup>[top⇈](#contents)</sup>
-> Scopes is a general purpose programming language and compiler infrastructure specifically suited for short turnaround prototyping and development of high performance applications in need of multi-stage compilation at runtime.
-* [Scopes](https://hg.sr.ht/~duangle/scopes) - main repository
 
 --------------------
 
